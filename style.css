@@ -1,6 +1,7 @@
 body{
     margin: 0 auto;
     padding: 0;
+    
 }
 header{
     width: 100%;
@@ -73,6 +74,7 @@ section{
     padding-left: 15%;
 }
 #sec2>img{
+    
     width: 45vw;
 }
 font{
